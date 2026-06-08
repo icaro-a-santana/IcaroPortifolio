@@ -19,4 +19,4 @@ Litter detection NN developed to be applied with a USV for trash detection on wa
 
 # SpecieScan
 Coin detection NN for validation of various Computer Vision approaches.
-- Link do projeto: https://github.com/icaro-a-santana/USV-SIMULATION
+- Link do projeto: https://github.com/icaro-a-santana/SpecieScan
